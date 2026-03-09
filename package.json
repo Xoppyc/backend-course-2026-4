@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fast-xml-parser": "^5.4.2",
+    "fs": "^0.0.1-security",
+    "minip": "file:../../my-backend/minip-2.0.1.tgz"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5"
+  }
+}
